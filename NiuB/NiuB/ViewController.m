@@ -24,6 +24,12 @@
     int b =3 ;
     int c = a + b;
     NSLog(@"---%d",c);
+    
+    
+    char d = 'c';
+    char e = 'e';
+    NSLog(@"*** %d %d",d,e);
+    
 }
 
 - (void)didReceiveMemoryWarning {
